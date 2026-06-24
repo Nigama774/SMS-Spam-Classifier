@@ -33,4 +33,16 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
+## Spam Detection Screenshot
+
+The model correctly identifies a spam message.
+
+![Spam Detection](screenshots/Spam Message Classification.png)
+
+## Ham Detection Screenshot
+
+The model correctly identifies a legitimate message.
+
+![Ham Detection](screenshots/Ham Message Classification.png)
+
 
