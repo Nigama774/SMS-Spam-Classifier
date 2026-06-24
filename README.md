@@ -1,7 +1,7 @@
 # SMS-Spam-Classifier
 Classification of spam messages via Support Vector Machine Learning model
 
-A machine learning project that classifies SMS messages as Spam or Ham.
+A machine learning project that classifies SMS messages as Spam or Ham. Results in Screenshots folder.
 
 ## Models Evaluated in code file:
 - Logistic Regression
@@ -33,16 +33,6 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
-## Spam Detection Screenshot
 
-The model correctly identifies a spam message.
-
-![Spam Detection](Screenshots/Spam Message Classification.png)
-
-## Ham Detection Screenshot
-
-The model correctly identifies a legitimate message.
-
-![Ham Detection](Screenshots/Ham Message Classification.png)
 
 
