@@ -37,12 +37,12 @@ streamlit run app.py
 
 The model correctly identifies a spam message.
 
-![Spam Detection](screenshots/Spam Message Classification.png)
+![Spam Detection](Screenshots/Spam Message Classification.png)
 
 ## Ham Detection Screenshot
 
 The model correctly identifies a legitimate message.
 
-![Ham Detection](screenshots/Ham Message Classification.png)
+![Ham Detection](Screenshots/Ham Message Classification.png)
 
 
